@@ -1,0 +1,12 @@
+Regular customer
+{
+  "email": "imemario77@gmail.com",
+  "password": "Qwerty12345"
+}
+
+admin 
+{
+  "email": "admin@gmail.com",
+  "password": "admin"
+}
+
